@@ -1,0 +1,4 @@
+extends:
+  - '@xports/eslint-config-xports/eslint.normal.js'
+  - '@xports/eslint-config-xports/eslint.vue.js'
+  
