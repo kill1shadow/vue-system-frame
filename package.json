@@ -3,14 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@antv/x6": "^1.32.3",
     "@xports/eslint-config-xports": "^2.0.9",
     "@xports/eslint-plugin-xports": "^1.1.0",
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
+    "insert-css": "^2.0.0",
     "nprogress": "^0.2.0",
     "path-to-regexp": "^6.2.1",
     "vue": "^2.6.11",

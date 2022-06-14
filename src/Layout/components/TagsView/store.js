@@ -153,7 +153,7 @@ const actions = {
 };
 
 export default {
-  namespace: 'tagsview',
+  namespace: 'tagsView',
   namespaced: true,
   state,
   mutations,
